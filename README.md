@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiyurim&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jiyurim?pet-id=822648459418493383"
+    width="700"
+    height="180"
+  />
+</a>
+  
+  
